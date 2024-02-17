@@ -1,0 +1,15 @@
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/bin/Debug/net7.0/Lesson2
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/bin/Debug/net7.0/Lesson2.deps.json
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/bin/Debug/net7.0/Lesson2.runtimeconfig.json
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/bin/Debug/net7.0/Lesson2.dll
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/bin/Debug/net7.0/Lesson2.pdb
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.csproj.AssemblyReference.cache
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfoInputs.cache
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.AssemblyInfo.cs
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.csproj.CoreCompileInputs.cache
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.dll
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/refint/Lesson2.dll
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.pdb
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/Lesson2.genruntimeconfig.cache
+/Users/rostislavnosovskij/Projects/Lesson2/Lesson2/obj/Debug/net7.0/ref/Lesson2.dll
